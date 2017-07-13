@@ -5,3 +5,6 @@ console.log("I'm building an App!!!");
 
 // about ed
 console.log("I'm working with Ed");
+console.log("Ed loves to code");
+console.log("Ed's helping me ");
+
